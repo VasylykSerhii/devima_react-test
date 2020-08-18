@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/devima_react-test/static/css/main.8e949a62.chunk.css",
+    "main.js": "/devima_react-test/static/js/main.67a1f068.chunk.js",
+    "main.js.map": "/devima_react-test/static/js/main.67a1f068.chunk.js.map",
+    "runtime-main.js": "/devima_react-test/static/js/runtime-main.c5f28af9.js",
+    "runtime-main.js.map": "/devima_react-test/static/js/runtime-main.c5f28af9.js.map",
+    "static/js/2.8f7ff79b.chunk.js": "/devima_react-test/static/js/2.8f7ff79b.chunk.js",
+    "static/js/2.8f7ff79b.chunk.js.map": "/devima_react-test/static/js/2.8f7ff79b.chunk.js.map",
+    "index.html": "/devima_react-test/index.html",
+    "precache-manifest.1243352c5f2cc7a003fe8f481fd8ff15.js": "/devima_react-test/precache-manifest.1243352c5f2cc7a003fe8f481fd8ff15.js",
+    "service-worker.js": "/devima_react-test/service-worker.js",
+    "static/css/main.8e949a62.chunk.css.map": "/devima_react-test/static/css/main.8e949a62.chunk.css.map",
+    "static/js/2.8f7ff79b.chunk.js.LICENSE.txt": "/devima_react-test/static/js/2.8f7ff79b.chunk.js.LICENSE.txt",
+    "static/media/BrandonText.css": "/devima_react-test/static/media/BrandonText-ThinItalic.f2513d9f.eot",
+    "static/media/desktop.png": "/devima_react-test/static/media/desktop.dc79f87b.png",
+    "static/media/screens-challenge.png": "/devima_react-test/static/media/screens-challenge.41defda7.png",
+    "static/media/services-screen.png": "/devima_react-test/static/media/services-screen.c6b73c39.png",
+    "static/media/solutions-screen.png": "/devima_react-test/static/media/solutions-screen.f1a79c60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5f28af9.js",
+    "static/js/2.8f7ff79b.chunk.js",
+    "static/css/main.8e949a62.chunk.css",
+    "static/js/main.67a1f068.chunk.js"
+  ]
+}
